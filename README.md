@@ -1,4 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
+## NAME: NITHIN BILGATES C
+## REGISTER NO: 2305001022
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -78,6 +80,7 @@ int main() {
 ```
 
 ## Output:
+<img width="797" height="233" alt="Screenshot 2026-06-06 215710" src="https://github.com/user-attachments/assets/2e676497-fc99-4dee-be14-9e195c3ac88a" />
 
 
 ## Result:
